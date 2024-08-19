@@ -16,7 +16,7 @@ At the first time, the HPhi 3.1.2 is downloaded and installed.
 Push ] to enter the package mode of Julia 1.0.
 
 ```julia
-add https://github.com/cometscome/HPhiJulia.jl
+add https://github.com/ultimatile/HPhiJulia.jl
 ```
 
 # models, methods,lattices
